@@ -128,6 +128,8 @@ Confirmar y enviar detalles.
 Cargar en CRM.
 Documentar: nombre, actividad, objetivo, problema, nivel de interés, información clave, fecha de reunión.
 Transferir al closer.
+Actualizar archivo del prospecto en `prospectos/activos/` con resultado final y moverlo a `prospectos/archivo/`.
+Registrar aprendizaje clave en `prospectos/indice.md` — sección "Patrones acumulados".
 
 ---
 
