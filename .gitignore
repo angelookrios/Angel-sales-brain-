@@ -1,0 +1,71 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+.directory
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+.env.local
+.env.*.local
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Dependencias y builds
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales
+*.tmp
+*.temp
+.tmp/
+
+# Claude Code
+.claude/
+
+# macOS específico
+.AppleDouble
+.LSOverride
+._*
+
+# Windows específico
+desktop.ini
+
+# Archivos compilados
+*.class
+*.jar
+*.exe
+*.dll
+
+# IDE settings personales
+.project
+.classpath
+.c9/
+
+# Archivos de pruebas/cobertura
+coverage/
+.coverage
+.nyc_output/
