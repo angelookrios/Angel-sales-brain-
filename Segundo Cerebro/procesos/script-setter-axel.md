@@ -1,7 +1,7 @@
 # Script de Setting — Voz de Axel Jutoran
 **Canal: Instagram / WhatsApp**
 **Prospección desde la cuenta de Axel**
-**Versión: v2 — Para revisión con Axel el 16/06**
+**Versión: v3 — Actualizado 15/06 con info de oferta**
 
 ---
 
@@ -156,15 +156,18 @@ El primer mensaje tiene que referirse a algo concreto de esa persona. Nunca copy
 
 ## ETAPA 6 — SOLUCIÓN
 
-**Objetivo:** conectar el problema del prospecto con el ecosistema de Axel. No explicar todo — generar suficiente interés para la llamada.
+**Objetivo:** conectar el problema del prospecto con FIA Copilot. No explicar todo — generar suficiente interés para la llamada.
 
-⚠️ La oferta está en rediseño. No mencionar precios ni prometer resultados específicos.
+⚠️ Ticket y oferta en rediseño. No mencionar precios. No prometer resultados específicos. Solo conectar el problema con la posibilidad.
 
-> "Lo que describís es exactamente el tipo de situación con la que trabajo. Ayudo a [perfil] a [objetivo que dijo] usando IA y sistemas que optimizan el proceso comercial."
+**Si es empresa / tiene equipo:**
+> "Lo que describís es exactamente el tipo de situación con la que trabajo. Tengo una plataforma — FIA Copilot — que le da a los equipos las herramientas de IA y la formación para que el proceso comercial funcione mejor. Pero depende mucho de tu caso específico. ¿Lo vemos en una llamada?"
 
-> "No sé si aplica exactamente a tu caso, pero lo que describís suena a algo que podemos revisar juntos."
+**Si es emprendedor / vendedor individual:**
+> "Lo que describís tiene solución. Trabajo con emprendedores que quieren escalar sus ventas usando IA — hay una plataforma con formación y herramientas para eso. No sé si aplica exactamente a tu caso, pero lo que describís suena a algo que podemos revisar juntos."
 
-> "Hay algo que creo que puede servirte. Pero prefiero que lo veas vos en una conversación directa porque depende mucho de tu situación específica."
+**Versión más corta (si ya hay mucho interés):**
+> "Hay algo que creo que puede servirte. Prefiero que lo veas vos en una conversación directa porque depende de tu situación puntual. ¿Tenés 30 minutos esta semana?"
 
 ---
 
@@ -186,7 +189,7 @@ El primer mensaje tiene que referirse a algo concreto de esa persona. Nunca copy
 ## OBJECIONES FRECUENTES
 
 **"¿De qué se trata exactamente?"**
-> "En dos palabras: trabajo con negocios que quieren escalar sus ventas usando IA y automatización. Pero lo que puedo aportarte depende de tu caso específico. Por eso prefiero verlo en una llamada corta. ¿Cuándo tenés 30 minutos?"
+> "En dos palabras: tengo una plataforma — FIA Copilot — que combina software de IA con formación para que los equipos o emprendedores mejoren su proceso comercial. Pero lo que puedo aportarte depende de tu caso. Por eso prefiero verlo en una llamada corta. ¿Cuándo tenés 30 minutos?"
 
 ---
 

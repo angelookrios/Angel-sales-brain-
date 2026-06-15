@@ -33,13 +33,39 @@ Personas que interactuaron con contenidos del ecosistema de Axel:
 - Skool
 - Mensajes directos
 
+## La oferta — FIA Copilot (en rediseño activo, junio 2026)
+
+**Producto principal:** FIA Copilot — software con plataforma educativa integrada.
+
+**Modelo:** venta de "asientos" (seats) en el software. El cliente paga por acceso y adentro tiene:
+- La plataforma de IA (FIA Copilot)
+- El contenido educativo según su perfil (FIA Agéntica / FIA Empresas / FIA Ventas)
+
+**Lógica detrás:** el software es el mismo para todos. Lo que varía es el contenido y el caso de uso.
+
+**Prioridad de mercado:**
+1. **Empresas** — foco principal ahora. Axel está mejorando el tracking y funcionalidades para equipos.
+2. **Emprendedores** — versión adaptada, viene después.
+
+**Estado actual:** Axel está haciendo mejoras técnicas en FIA Copilot antes de lanzar. La oferta no está lista formalmente. Ticket sin definir aún.
+
+⚠️ No mencionar precios ni prometer resultados específicos hasta que Axel confirme la oferta cerrada.
+
+---
+
 ## Perfil del prospecto ideal
 
-Dueños de negocio, emprendedores, coaches, consultores o vendedores que:
-- Venden servicios de alto valor
-- Necesitan más conversaciones calificadas
-- Tienen interés en IA, automatización, ventas o crecimiento de negocio
-- Reconocen que existe una oportunidad de mejora en su proceso comercial
+**Prioritario — Empresas:**
+- Empresas con equipos comerciales o de ventas
+- Necesitan tracking, automatización o IA aplicada a su proceso
+- Interés en capacitar a su equipo con IA
+
+**Secundario — Emprendedores:**
+- Coaches, consultores, vendedores, emprendedores digitales
+- Venden servicios o productos y quieren escalar con IA
+- Interés en FIA Ventas o FIA Agéntica
+
+⚠️ Los 3 perfiles de cliente ideal exactos los pasa Axel por escrito. Pendiente al 16/06.
 
 ## Criterios de calificación (para transferir al closer)
 
@@ -49,6 +75,7 @@ El prospecto debe cumplir la mayoría de:
 - Existe relación con IA, ventas, automatización o crecimiento
 - Reconoce que puede mejorar
 - Tiene interés genuino en explorar soluciones
+- **Nuevo:** si es empresa, tiene equipo (no es solo freelancer)
 
 ## Lo que NO hago
 
