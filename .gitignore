@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Env / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Python (si se agregan scripts)
+__pycache__/
+*.py[cod]
+
+# Node (si se agrega tooling)
+node_modules/
