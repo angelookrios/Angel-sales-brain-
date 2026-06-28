@@ -8,6 +8,9 @@ Lee `Segundo Cerebro/` antes de responder.
 - `negocio.md` — rol Setter, ecosistema Axel Jutoran, criterios de calificación
 - `estrategia.md` — marca personal, cliente ideal, FODA, objetivos SMART
 - `procesos/setter-intel.md` — SOP de prospección + formato de análisis de prospectos
+- `procesos/script-prospeccion.md` — flujo de mensajes, objeciones, seguimiento, CRM
+- `procesos/catalogo-recursos.md` — catálogo FIA Copilot organizado por perfil/dolor
+- `procesos/resumen-fia-ventas.md` — programa, embudo, reglas de enrutamiento
 - `memoria-ia.md` — preferencias e historial de decisiones
 
 ## Constraints no negociables

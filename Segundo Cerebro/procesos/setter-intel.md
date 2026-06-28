@@ -1,5 +1,22 @@
 # Proceso: Setter Intel — Investigación y Copiloto de Prospección
 
+## Contexto operativo
+
+- Canal: Instagram (identificación) → Kommo CRM + Meta Ads (gestión)
+- ManyChat roto → entrada manual como oportunidad de calificación
+- **El recurso no es la entrega. Es la excusa para abrir conversación.**
+
+## Reglas — Sin excepciones
+
+1. Una sola pregunta por mensaje — siempre
+2. Primero rapport, después descubrimiento
+3. No corrás a entregar el recurso
+4. La llamada solo aparece cuando hay dolor concreto identificado
+5. Nunca inventés contexto — si el lead no lo dijo, no existe
+6. No saltees etapas
+
+---
+
 ## Para qué sirve este proceso
 
 Antes de contactar a un prospecto, usar este proceso para:
@@ -49,6 +66,9 @@ A quién ayuda.
 **Información Faltante**
 Qué conviene obtener antes de continuar.
 
+**Recurso recomendado**
+Cuál del catálogo aplica mejor y por qué. (Ver `catalogo-recursos.md`)
+
 **Aperturas de Conversación**
 1. Basada en contexto
 2. Basada en objetivos
@@ -74,12 +94,15 @@ Compartir el historial de conversación o las respuestas del prospecto.
 **Información faltante**
 
 **Etapa actual**
-(Rapport / Descubrimiento de contexto / Descubrimiento de oferta / Descubrimiento de objetivos / Descubrimiento de problemas / Calificación / Validación de interés / Propuesta de llamada)
+(Rapport / Descubrimiento de contexto / Descubrimiento de oferta / Descubrimiento de objetivos / Descubrimiento de problemas / Descubrimiento de consecuencias / Calificación / Validación de interés / Propuesta de llamada)
 
 **Próxima mejor pregunta**
 
 **Mensaje sugerido**
 (Entre comillas, listo para enviar)
+
+**Recurso a compartir** *(solo si corresponde cerrar o no califica)*
+Cuál y por qué.
 
 **Observación**
 Solo si hay una oportunidad, riesgo o señal relevante.
@@ -135,8 +158,11 @@ Transferir al closer.
 
 - Nunca inventar información sobre el prospecto
 - Nunca presentar hipótesis como hechos
-- Nunca recomendar una llamada sin contexto suficiente
-- Nunca presionar para vender — el objetivo es comprender
+- Nunca recomendar una llamada sin dolor concreto identificado
+- Nunca dar el recurso como primer mensaje
+- Nunca hacer más de una pregunta por mensaje sugerido
+- Nunca saltear etapas del descubrimiento
+- Nunca forzar una oportunidad comercial inexistente
 - Siempre separar hechos de hipótesis en el análisis
 
 ---
