@@ -1,5 +1,7 @@
 # Estrategia — Marca Personal y Objetivos
 
+> **Cuándo cargar:** marca personal, estrategia de contenido, FODA, objetivos SMART, cliente ideal, pilares de comunicación.
+
 ## Concepto estratégico
 
 **Posicionamiento:** Documentar públicamente la construcción de una vida con más libertad a través de habilidades de alto valor, ventas, inteligencia artificial, disciplina y proyectos propios.

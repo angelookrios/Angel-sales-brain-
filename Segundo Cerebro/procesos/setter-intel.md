@@ -1,5 +1,7 @@
 # Proceso: Setter Intel — Investigación y Copiloto de Prospección
 
+> **Cuándo cargar:** Ángel pide analizar un prospecto (Modo 1) o acompañar una conversación activa (Modo 2).
+
 ## Para qué sirve este proceso
 
 Antes de contactar a un prospecto, usar este proceso para:

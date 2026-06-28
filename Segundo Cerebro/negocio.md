@@ -1,5 +1,7 @@
 # Negocio Actual — Setter en Ecosistema Axel Jutoran
 
+> **Cuándo cargar:** rol setter, herramientas activas, criterios de calificación, objetivo de facturación, ecosistema de Axel Jutoran.
+
 ## Rol actual
 
 **Appointment Setter** dentro del ecosistema de Axel Jutoran.

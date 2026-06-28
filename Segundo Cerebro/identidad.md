@@ -1,5 +1,7 @@
 # Identidad — Ángel Ríos
 
+> **Cuándo cargar:** historia personal, valores, visión de largo plazo, identidad de marca, posicionamiento público.
+
 ## Quién soy
 
 Nombre: Ángel Ríos
